@@ -1,0 +1,18 @@
+PDF_6000dpi|Large Postscript: \
+        :type=postscript2: \
+        :spool=ps2pdf13 - > /n/homeserver2/user2a/ajjarapu/plot6.pdf ; (/n/homeserver2/user2a/ajjarapu/plot6.pdf &): \
+        :resolution#6000: \
+        :maximumPages#30: \
+        :paperSize="A" 48000 63000 1500 1500:
+PDF_3000dpi|Medium Postscript: \
+        :type=postscript2: \
+        :spool=ps2pdf13 - > /n/homeserver2/user2a/ajjarapu/plot.pdf ; (acroread /n/homeserver2/user2a/ajjarapu/plot.pdf &): \
+        :resolution#3000: \
+        :maximumPages#30: \
+        :paperSize="A" 24000 31500 750 750:
+PDF_1000dpi|Small Postscript: \
+        :type=postscript2: \
+        :spool=ps2pdf13 - > /n/homeserver2/user2a/ajjarapu/plot.pdf ; (acroread /n/homeserver2/user2a/ajjarapu/plot.pdf &): \
+        :resolution#1000: \
+        :maximumPages#30: \
+        :paperSize="A" 8000 10500 250 250:

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : filter.dra                                    )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Mon Aug  3 16:52:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical
+    Name      = filter.psm
+    User      = ajjarapu
+    Machine   = compton.princeton.edu
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

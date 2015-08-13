@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : qubit_qed_III.brd                             )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Tue Jul  7 16:03:22 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file '/n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/Libraries/hole070p.txt': written successfully.
+Device file '/n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/Libraries/ssma_bb.txt': written successfully.
+
+  Created device files: 2
+

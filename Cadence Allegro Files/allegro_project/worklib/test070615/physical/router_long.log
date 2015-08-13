@@ -1,0 +1,390 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd
+Started on   Mon Jul 13 16:56:47 2015
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 16  Unplaced 0  Total 16
+        Nets:  W/Rats 2  No/Rats 0  Total 2
+        Pins:  W/Rats 36  No/Rats 0  Unused 0  Unplaced 0  Total 36
+        Equivalent ICs (1 pin = 1/14 EIC)  2
+        Router Keepin (in) (-0.9200,-0.7450) by (0.9200,0.7450)
+        Board area (sq in)  2.7
+        Board density (sq in/EIC) 1.066
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Manh Distance (inches)      12.97
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+    2 Offgrid area(s)
+        size (1306.00,546.00) (1556.00,744.00)
+        size (1291.00,179.00) (1751.00,463.00)
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  5.00  5.00  5.00  13.00 13.00   30.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     4  BOTTOM               V  5.00  5.00  5.00  13.00 13.00   20.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:13:42 hours
+    Total elapsed time - 5411:36:39 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 13 16:56:47 2015
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd
+Started on   Mon Jul 13 16:56:47 2015
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 16  Unplaced 0  Total 16
+        Nets:  W/Rats 2  No/Rats 0  Total 2
+        Pins:  W/Rats 36  No/Rats 0  Unused 0  Unplaced 0  Total 36
+        Equivalent ICs (1 pin = 1/14 EIC)  2
+        Router Keepin (in) (-0.9200,-0.7450) by (0.9200,0.7450)
+        Board area (sq in)  2.7
+        Board density (sq in/EIC) 1.066
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Manh Distance (inches)      12.97
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+    2 Offgrid area(s)
+        size (1306.00,546.00) (1556.00,744.00)
+        size (1291.00,179.00) (1751.00,463.00)
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  5.00  5.00  5.00  13.00 13.00   30.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     4  BOTTOM               V  5.00  5.00  5.00  13.00 13.00   20.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:13:42 hours
+    Total elapsed time - 5411:36:39 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 13 16:56:47 2015
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd
+Started on   Mon Jul 13 17:04:05 2015
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 16  Unplaced 0  Total 16
+        Nets:  W/Rats 2  No/Rats 0  Total 2
+        Pins:  W/Rats 36  No/Rats 0  Unused 0  Unplaced 0  Total 36
+        Equivalent ICs (1 pin = 1/14 EIC)  2
+        Router Keepin (in) (-0.9200,-0.7450) by (0.9200,0.7450)
+        Board area (sq in)  2.7
+        Board density (sq in/EIC) 1.066
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Manh Distance (inches)      12.97
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+    2 Offgrid area(s)
+        size (1306.00,546.00) (1556.00,744.00)
+        size (1291.00,179.00) (1751.00,463.00)
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  5.00  5.00  5.00  13.00 13.00   30.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     4  BOTTOM               V  5.00  5.00  5.00  13.00 13.00   20.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:14:0 hours
+    Total elapsed time - 5411:43:56 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 13 17:04:05 2015
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd
+Started on   Mon Jul 13 17:04:05 2015
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 16  Unplaced 0  Total 16
+        Nets:  W/Rats 2  No/Rats 0  Total 2
+        Pins:  W/Rats 36  No/Rats 0  Unused 0  Unplaced 0  Total 36
+        Equivalent ICs (1 pin = 1/14 EIC)  2
+        Router Keepin (in) (-0.9200,-0.7450) by (0.9200,0.7450)
+        Board area (sq in)  2.7
+        Board density (sq in/EIC) 1.066
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Manh Distance (inches)      12.97
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+    2 Offgrid area(s)
+        size (1306.00,546.00) (1556.00,744.00)
+        size (1291.00,179.00) (1751.00,463.00)
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  5.00  5.00  5.00  13.00 13.00   30.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     4  BOTTOM               V  5.00  5.00  5.00  13.00 13.00   20.00  25.00
+        X grids:     1.00  Offset: 0.00
+        Y grids:     1.00  Offset: 0.00
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 34           0           34
+        Already Connected           30           0           30
+        Missing Connections          4           0            4
+        Connection Completion       88.24%       0.00%       88.24%
+        Etch Length (inches)         4.88        0.00         4.88
+        Number of vias		    71           0           71
+        Vias per Connection          2.37        0.00         2.37
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:14:0 hours
+    Total elapsed time - 5411:43:56 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 13 17:04:05 2015

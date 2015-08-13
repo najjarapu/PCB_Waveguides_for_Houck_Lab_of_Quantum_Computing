@@ -1,0 +1,106 @@
+\t (00:00:42) allegro 16.6 S006 (v16-6-112Z) Linux I32
+\t (00:00:42)     Journal start - Mon Jul 20 14:44:49 2015
+\t (00:00:42)         Host=compton.princeton.edu User=ajjarapu Pid=9691 CPUs=12
+\t (00:00:42) 
+\t (00:00:42) Starting new design...
+\i (00:00:42) trapsize 13716
+\i (00:00:42) trapsize 13716
+\i (00:00:43) layout wizard 
+\i (00:00:45) generaledit 
+\i (00:00:45) setwindow form.brd_wizard
+\i (00:00:45) FORM brd_wizard wiz_next  
+   (00:00:45) Loading cmds.cxt 
+   (00:00:45) Loading axlcore.cxt 
+\i (00:00:48) FORM brd_wizard wiz_next  
+\i (00:00:49) FORM brd_wizard wiz_next  
+\i (00:00:50) FORM brd_wizard wiz_next  
+\i (00:00:52) FORM brd_wizard board_size D 
+\i (00:00:54) FORM brd_wizard wiz_next  
+\i (00:00:56) FORM brd_wizard etch_layer_count 4 
+\i (00:00:57) FORM brd_wizard wiz_next  
+\i (00:00:58) FORM brd_wizard etch_layer_details cell 2,1 
+\i (00:01:02) FORM brd_wizard etch_layer_details change 2,1 02_GND 
+\i (00:01:02) FORM brd_wizard etch_layer_details cell 2,2 
+\i (00:01:03) FORM brd_wizard etch_layer_details cell 3,1 
+\i (00:01:03) FORM brd_wizard etch_layer_details cell 3,1 
+\i (00:01:09) FORM brd_wizard etch_layer_details change 3,1 03_SIG 
+\i (00:01:09) FORM brd_wizard etch_layer_details cell 2,2 
+\i (00:01:10) FORM brd_wizard etch_layer_details change 2,2 'Power plane' 
+\i (00:01:12) FORM brd_wizard wiz_next  
+\i (00:01:14) FORM brd_wizard min_line_width 5.00 
+\i (00:01:15) FORM brd_wizard def_via_browse  
+\i (00:01:22) fillin "Via"
+\i (00:01:23) FORM brd_wizard wiz_next  
+\i (00:01:25) FORM brd_wizard rectangular_board YES 
+\i (00:01:26) FORM brd_wizard wiz_next  
+\i (00:01:30) FORM brd_wizard rb_outline_width 2260.00 
+\i (00:01:34) FORM brd_wizard rb_outline_height 2260.00 
+\i (00:01:35) FORM brd_wizard rb_route_keepin_distance 5.00 
+\i (00:01:37) FORM brd_wizard rb_package_keepin_distance 5.00 
+\i (00:01:38) FORM brd_wizard wiz_next  
+\i (00:01:40) FORM brd_wizard wiz_finish  
+\i (00:01:40) setwindow pcb
+\i (00:01:40) trapsize 13716
+\i (00:01:40) trapsize 13716
+\i (00:01:42) generaledit 
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in -157.11 0.00
+\i (00:01:42) trapsize 6858
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in -253.11 -123.44
+\i (00:01:42) trapsize 3429
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in -136.53 75.44
+\i (00:01:43) trapsize 1714
+\i (00:01:53) netin 
+\i (00:01:56) setwindow form.niparams
+\i (00:01:56) FORM niparams other  
+\i (00:01:57) FORM niparams cadence  
+\i (00:02:05) FORM niparams other  
+\i (00:02:07) FORM niparams browse_filename  
+\i (00:02:15) fillin "/n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/netlist.txt"
+\i (00:02:24) FORM niparams import  
+\t (00:02:24) Starting 3rd party (netin) Logic Import...
+\w (00:02:25) WARNING(SPMHGE-269): netin had warnings, use Viewlog to review the log file.
+\t (00:02:25) Opening existing design...
+\i (00:02:25) setwindow pcb
+\i (00:02:25) trapsize 1714
+\i (00:02:31) generaledit 
+\i (00:02:33) zoom out 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom out 2771.20 -726.93
+\i (00:02:33) trapsize 3429
+\i (00:02:33) zoom out 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom out 1776.82 164.59
+\i (00:02:33) trapsize 6858
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in 1653.37 233.17
+\i (00:02:35) trapsize 3429
+\i (00:02:37) setwindow text
+\i (00:02:37) close 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) pick grid -4258.10 3387.78
+\t (00:03:04) last pick:  -4258.00  3388.00
+\i (00:03:09) new 
+\e (00:03:10) Do you want to save the changes you made to newBoard.brd?
+\i (00:03:14) fillin no 
+\i (00:03:23) newdrawfillin "newBoard.brd" "Board (Wizard)"
+\t (00:03:23) Starting new design...
+\i (00:03:23) trapsize 13716
+\i (00:03:23) trapsize 13716
+\i (00:03:24) layout wizard 
+\i (00:03:25) generaledit 
+\i (00:03:26) setwindow form.brd_wizard
+\i (00:03:26) FORM brd_wizard cancel  
+\t (00:03:26) Starting new design...
+\i (00:03:26) setwindow pcb
+\i (00:03:26) trapsize 13716
+\i (00:03:26) trapsize 13716
+\i (00:03:29) new 
+\i (00:03:43) newdrawfillin "newBoard.brd" "Board"
+\t (00:03:43)     Journal end - Mon Jul 20 14:47:50 2015

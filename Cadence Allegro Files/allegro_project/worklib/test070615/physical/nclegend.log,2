@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : filterboard_PARTIAL.brd                       )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Wed Aug 12 18:32:25 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file '/usr/licensed/cadence/SPB166/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.

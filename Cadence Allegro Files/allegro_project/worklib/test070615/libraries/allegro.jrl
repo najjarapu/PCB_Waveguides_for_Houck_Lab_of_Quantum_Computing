@@ -1,0 +1,34 @@
+\t (01:36:38) allegro 16.6 S006 (v16-6-112Z) Linux I32
+\t (01:36:38)     Journal start - Tue Aug 11 12:49:30 2015
+\t (01:36:38)         Host=davisson.princeton.edu User=ajjarapu Pid=8509 CPUs=12
+\t (01:36:38) 
+\d (01:36:38) Database opened: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/libraries/a2.dra
+\i (01:36:40) generaledit 
+\i (01:36:47) zoom in 1 
+\i (01:36:47) setwindow pcb
+\i (01:36:47) zoom in 27415.48 9063.64
+\i (01:36:47) trapsize 8077
+\i (01:36:48) zoom out 1 
+\i (01:36:48) setwindow pcb
+\i (01:36:48) zoom out 16123.28 8595.15
+\i (01:36:48) trapsize 16155
+\i (01:36:51) zoom in 1 
+\i (01:36:52) setwindow pcb
+\i (01:36:52) zoom in 15460.93 1793.98
+\i (01:36:52) trapsize 8077
+\i (01:37:01) roam y 96 
+\i (01:37:01) roam y 64
+\i (01:37:27) zoom out 1 
+\i (01:37:27) setwindow pcb
+\i (01:37:27) zoom out 8288.21 7238.15
+\i (01:37:27) trapsize 16155
+\i (01:54:09) opencd /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/filterboard.brd 
+\e (01:54:10) Do you want to save the changes you made to a2.dra?
+\i (01:54:15) fillin no 
+\t (01:54:15) Opening existing design...
+\i (01:54:16) trapsize 6174
+\i (01:54:18) trapsize 6056
+\i (01:54:19) trapsize 6174
+\i (01:54:21) trapsize 7767
+\i (01:54:21) trapsize 7767
+\t (01:54:22)     Journal end - Tue Aug 11 13:07:13 2015

@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC ROUTE Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaacx08509.tmp                             )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Wed Aug 12 13:35:54 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		YES
+ SEPARATE-ROUTING	YES
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+
+ WARNING(SPMHMF-326): Cannot find NC Route bit tool file 'ncroutebits.txt'
+ WARNING(SPMHMF-327): ... will auto-generate bit tool file 'ncroutebits_auto.txt'.
+
+ Auto-generating tool file 'ncroutebits_auto.txt' ...
+
+-------------------------------------------------------------
+
+ Pre_processing non-plated route path data ...
+
+ WARNING(SPMHMF-296): No route path data was found for processing.
+
+
+-------------------------------------------------------------
+
+ Processing non-plated slot hole data ...
+
+ WARNING(SPMHMF-318): No toolcode of a size smaller than 236.000000 found for a RECTANGLE slot ... Defaulting to T01.
+
+ WARNING(SPMHMF-318): No toolcode of a size smaller than 236.000000 found for a RECTANGLE slot ... Defaulting to T01.
+
+ WARNING(SPMHMF-318): No toolcode of a size smaller than 236.000000 found for a RECTANGLE slot ... Defaulting to T01.
+
+ WARNING(SPMHMF-318): No toolcode of a size smaller than 236.000000 found for a RECTANGLE slot ... Defaulting to T01.
+
+ OVAL      slots routed: 0
+ RECTANGLE slots routed: 4
+
+-------------------------------------------------------------
+
+ NC Route file 'filterboardpartialroute.rou' created ...
+
+-------------------------------------------------------------
+
+ Pre_processing plated route path data ...
+
+ WARNING(SPMHMF-296): No route path data was found for processing.
+
+
+-------------------------------------------------------------
+
+ Processing plated slot hole data ...
+
+ WARNING(SPMHMF-323): No plated slot holes were found for processing.
+-------------------------------------------------------------
+
+ Program completed WITH WARNINGS.
+

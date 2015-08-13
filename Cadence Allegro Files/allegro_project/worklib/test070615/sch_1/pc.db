@@ -1,0 +1,13 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S006 (v16-6-112X) 3/20/2013 on Mon Jul 20 18:01:31 2015
+#ISCELL
+  standard a#20size#20page *
+  *
+#ISCELL
+  standard outport *
+  page1_i1
+#ISCELL
+  standard outport *
+  page1_i2
+#ISCELL
+  standard outport *
+  page1_i3

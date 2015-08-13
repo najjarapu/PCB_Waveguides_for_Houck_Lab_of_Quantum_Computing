@@ -1,0 +1,63 @@
+\t (00:00:07) sigxp 16.6 S006 (v16-6-112Z) Linux I32
+\t (00:00:07)     Journal start - Mon Jul 13 18:26:51 2015
+\t (00:00:07)         Host=davisson.princeton.edu User=ajjarapu Pid=14120 CPUs=12
+\t (00:00:07) 
+\t (00:00:07) Starting new design...
+\i (00:00:10) trapsize 1135
+\i (00:00:10) trapsize 1099
+\i (00:00:11) trapsize 1141
+\i (00:00:11) trapsize 1206
+\i (00:00:12) trapsize 1362
+\i (00:00:12) trapsize 6811
+\t (00:00:12) Starting new design...
+\i (00:00:13) trapsize 6811
+\i (00:00:13) trapsize 6811
+\i (00:00:13) trapsize 6811
+\i (00:00:13) trapsize 24
+   (00:00:13) Loading sigxp.cxt 
+   (00:00:13) Loading signal.cxt 
+   (00:00:13) Loading sxutil.cxt 
+   (00:00:13) Loading axlcore.cxt 
+   (00:00:13) Loading skillExt.cxt 
+   (00:00:13) Loading fputil.cxt 
+\i (00:00:13) sigxp background 
+\i (00:00:23) quickaddpart 38918 
+\i (00:00:26) pick grid 5496.73 4252.79
+\t (00:00:26) last pick:  5496.50  4253.00
+\i (00:00:28) sigxp background 
+\i (00:00:29) pick grid 5495.63 4251.64
+\t (00:00:29) last pick:  5495.50  4251.50
+\i (00:00:32) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R1.resistance VALUE
+\i (00:00:33) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R1.resistance VALUE
+\i (00:00:33) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R1.resistance VALUE
+\i (00:00:37) spreadsheet Parameters STORE CIRCUIT.DESIGN.R1.resistance VALUE "500 Ohm"
+\i (00:00:37) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.tlineDelayMode VALUE
+\i (00:00:42) quickaddpart 38919 
+\i (00:00:47) pick grid 5506.83 4252.79
+\t (00:00:47) last pick:  5507.00  4253.00
+\i (00:00:49) sigxp background 
+\i (00:01:00) quickaddpart 38892 
+\i (00:01:02) setwindow form.sxaddpart
+\i (00:01:02) FORM sxaddpart done  
+\i (00:01:03) setwindow sigxp
+\i (00:01:03) sigxp background 
+\i (00:01:07) quickaddpart 38917 
+\i (00:01:10) pick grid 5493.03 4249.04
+\t (00:01:10) last pick:  5493.00  4249.00
+\i (00:01:20) quickaddpart 38903 
+\i (00:01:25) pick grid 5503.95 4242.74
+\t (00:01:25) last pick:  5504.00  4242.50
+\i (00:01:27) sigxp background 
+\i (00:01:33) quickaddpart 38917 
+\i (00:01:34) pick grid 5480.96 4254.28
+\t (00:01:34) last pick:  5481.00  4254.50
+\i (00:01:37) quickaddpart 38890 
+\i (00:01:37) pick grid 5496.44 4258.85
+\t (00:01:37) last pick:  5496.50  4259.00
+\i (00:01:39) sigxp background 
+\i (00:01:53) quickaddpart 38923 
+\i (00:01:55) pick grid 5513.37 4253.22
+\t (00:01:55) last pick:  5513.50  4253.00
+\i (00:01:57) sigxp background 
+\i (00:02:05) exit 
+\t (00:02:06)     Journal end - Mon Jul 13 18:28:50 2015

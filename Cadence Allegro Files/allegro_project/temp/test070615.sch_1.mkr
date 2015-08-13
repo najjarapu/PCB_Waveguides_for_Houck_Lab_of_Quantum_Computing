@@ -1,0 +1,80 @@
+(marker_file
+ (version 1.0)
+ (markers
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 1)
+   (short_msg "ERROR(SPCOCD-113): Port is attached to an unnamed signal.")
+   (long_msg "Severity : Error (Concept)
+Description : ERROR(SPCOCD-113): Port is attached to an unnamed signal.
+Object dump: 
+{
+    page:  1
+    instance:  i3
+    cell name: outport
+    pin name:  A
+}
+")
+   (location
+    (
+     (object_kind "InstancePin")
+     (canonical_name "_!drawerror pin i3.A;")
+     (parent_canonical_name "DRAWERROR PIN i3.A;")
+     (drawing_name "@\070615_lib\.test070615(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 2)
+   (short_msg "ERROR(SPCOCD-113): Port is attached to an unnamed signal.")
+   (long_msg "Severity : Error (Concept)
+Description : ERROR(SPCOCD-113): Port is attached to an unnamed signal.
+Object dump: 
+{
+    page:  1
+    instance:  i2
+    cell name: outport
+    pin name:  A
+}
+")
+   (location
+    (
+     (object_kind "InstancePin")
+     (canonical_name "_!drawerror pin i2.A;")
+     (parent_canonical_name "DRAWERROR PIN i2.A;")
+     (drawing_name "@\070615_lib\.test070615(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 3)
+   (short_msg "ERROR(SPCOCD-113): Port is attached to an unnamed signal.")
+   (long_msg "Severity : Error (Concept)
+Description : ERROR(SPCOCD-113): Port is attached to an unnamed signal.
+Object dump: 
+{
+    page:  1
+    instance:  i1
+    cell name: outport
+    pin name:  A
+}
+")
+   (location
+    (
+     (object_kind "InstancePin")
+     (canonical_name "_!drawerror pin i1.A;")
+     (parent_canonical_name "DRAWERROR PIN i1.A;")
+     (drawing_name "@\070615_lib\.test070615(sch_1):page1")
+    )
+   )
+  )
+ )
+)

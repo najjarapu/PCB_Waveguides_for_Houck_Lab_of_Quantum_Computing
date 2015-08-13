@@ -1,0 +1,93 @@
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\02_GND.art' ----   Tue Jul 28 18:40:30 2015
+
+D12   --> D122
+D20   --> D123
+D16   --> D124
+D15   --> D125
+D11   --> D126
+D18   --> D127
+D14   --> D151
+D10   --> D152
+D13   --> D153
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\03_SIG.art' ----   Tue Jul 28 18:40:31 2015
+
+D14   --> D154
+D13   --> D155
+D11   --> D156
+D15   --> D157
+D16   --> D158
+D17   --> D159
+D18   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\BOTTOM.art' ----   Tue Jul 28 18:40:31 2015
+
+D14   --> D161
+D13   --> D162
+D11   --> D163
+D15   --> D164
+D16   --> D165
+D19   --> D166
+D18   --> D167
+D17   --> D168
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\FabArt.art' ----   Tue Jul 28 18:40:31 2015
+
+D16   --> D169
+D14   --> D170
+D11   --> D171
+D19   --> D172
+D22   --> D173
+D12   --> D174
+D20   --> D175
+D18   --> D176
+D15   --> D177
+D21   --> D178
+D17   --> D179
+D10   --> D180
+D13   --> D181
+D23   --> D182
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\PhotoPlotArea.art' ----   Tue Jul 28 18:40:31 2015
+
+D10   --> D183
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\Soldermask_Bottom.art' ----   Tue Jul 28 18:40:32 2015
+
+D14   --> D184
+D13   --> D185
+D12   --> D186
+D10   --> D187
+D11   --> D188
+D15   --> D189
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\Soldermask_Top.art' ----   Tue Jul 28 18:40:32 2015
+
+D13   --> D190
+D12   --> D191
+D10   --> D192
+D11   --> D193
+D14   --> D194
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\allegro_project\worklib\test070615\physical\139_board_art\Gerber Art\TOP.art' ----   Tue Jul 28 18:40:33 2015
+
+D14   --> D195
+D16   --> D196
+D15   --> D197
+-----------------------------------------------------------------

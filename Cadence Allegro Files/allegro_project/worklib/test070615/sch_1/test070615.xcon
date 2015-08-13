@@ -1,0 +1,67 @@
+<schema xmlns="http://www.cadence.com/spb/csschema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.cadence.com/spb/csschema CSSchema002.xsd">
+  <header>
+    <schemaVersion>16.6</schemaVersion>
+    <creatorTool>concepthdl</creatorTool>
+    <modifierTool>concepthdl</modifierTool>
+    <modificationTime>2015-07-20T18:00:19</modificationTime>
+    <savedLibrary>070615_lib</savedLibrary>
+  </header>
+  <designs>
+    <design schemaType="nameBased" name="test070615" view="sch_1">
+      <external_errors>true</external_errors>
+      <lastids>
+        <netid>2</netid>
+      </lastids>
+      <cells>
+      </cells>
+      <nets>
+        <net>
+          <id>N1</id>
+          <name>unnamed_1_outport_i1_a</name>
+        </net>
+        <net>
+          <id>N2</id>
+          <name>page1_unnamed_1_outport_i1_a</name>
+        </net>
+      </nets>
+      <aliases>
+        <alias net1="N2" lsb1="-1" msb1="-1" net2="N1" lsb2="-1" msb2="-1" />
+      </aliases>
+      <differentialnets>
+      </differentialnets>
+      <differentialbusnets>
+      </differentialbusnets>
+      <netgroups>
+      </netgroups>
+      <netinterfaces>
+      </netinterfaces>
+      <instances>
+      </instances>
+      <templateresolutions>
+      </templateresolutions>
+      <templateinstances>
+      </templateinstances>
+      <extensions>
+        <extension name="schematic_extension">
+        <schematicExtension>
+        <netScopes>
+        </netScopes>
+        <pages>
+          <page number="1">
+            <physicalPageNumber>1</physicalPageNumber>
+            <errorStatus>true</errorStatus>
+            <nets>
+              <net ref="unnamed_1_outport_i1_a"></net>
+            </nets>
+            <instances>
+            </instances>
+          </page>
+        </pages>
+      </schematicExtension>
+        </extension>
+      </extensions>
+    </design>
+  </designs>
+</schema>

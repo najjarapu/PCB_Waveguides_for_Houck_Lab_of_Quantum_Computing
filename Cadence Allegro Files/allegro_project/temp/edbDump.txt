@@ -1,0 +1,2 @@
+
+Could not find connectivity information for block 'test070615' in library '070615_lib'. Ensure that the design is saved.

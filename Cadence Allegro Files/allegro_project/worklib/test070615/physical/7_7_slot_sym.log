@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 7_7_slot_sym.dra                              )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Wed Jul 15 18:35:06 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical
+    Name      = 7_7_slot_sym.psm
+    User      = ajjarapu
+    Machine   = davisson.princeton.edu
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

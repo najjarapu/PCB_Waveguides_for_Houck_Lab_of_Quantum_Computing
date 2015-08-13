@@ -1,0 +1,215 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : testBoard.brd                                 )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Mon Jul 13 16:56:46 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Via Eliminate glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+
+Via Eliminate Total Stats:
+Vias: Total Candidates = 0,  Total Eliminations = 0,  100 % Eliminatons.
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+
+Finished execution 1
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 0
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+
+Line Smooth glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 0
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+
+Finished execution 1
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 0
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+
+Glossing Corners to Arcs initiated on Mon Jul 13 16:56:47 2015
+
+Maximum Radius = 1.00.
+Minimum Radius = 2.00.
+Number of Executions = 1
+
+Corners to Arcs Stats
+
+
+Number of Glossing Attempts                   : 6
+Number of Actual Glossings                    : 0
+Number of Failed Glossing Attempts: 6
+Number of by No-Gloss nets  : 0
+There were 0 Corners Converted to Arcs.
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:47 2015
+
+
+Glossing Corners to Arcs finished.
+
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Mon Jul 13 16:56:47 2015
+
+ Round pads:          YES   max size: 100.00
+ Square pads:         YES   max size: 100.00
+ Rectangular pads:    YES   max size: 100.00
+ Oblong pads:         YES   max size: 100.00
+ Octagon pads:        YES   max size: 100.00
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      25.00
+ Via Maximum offset:      25.00
+ T Maximum offset:        25.00
+ Pin minimum line width:  3.00
+ Via minimum line width:  3.00
+ T minimum line width:    3.00
+ Pin maximum line width:  25.00
+ Via maximum line width:  25.00
+ T maximum line width:    25.00
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    25.00
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+
+
+
+Total number of fillets added: 8
+
+Number of fillets rejected due to DRC errors: 0
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 13 16:56:48 2015
+
+
+
+
+Glossing complete.

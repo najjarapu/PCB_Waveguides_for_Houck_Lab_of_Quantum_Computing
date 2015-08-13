@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : filterboard_PARTIAL.brd                       )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Wed Aug 12 18:37:04 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING: The following vias/pins have connections using non-plated padstacks
+         This may cause issues with your manufacturing process.
+
+  Pin/Via         Padstack                                   Location
+  -------------------------------------------------------------------------
+  R7.1            FILTERPAD                                (0.00 633.96)
+  R3.1            FILTERPAD                                (0.00 -633.96)
+  R5.1            FILTERPAD                                (-633.96 0.00)
+  R1.1            FILTERPAD                                (633.96 0.00)
+
+
+4 warnings, 0 errors detected, 0 errors could be fixed.

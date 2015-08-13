@@ -1,0 +1,33 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : newBoard.brd                                  )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Mon Jul 20 16:24:58 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: /n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/place_txt.txt
+
+ Save as #Taaaaaa03725.tmp 
+MTG6                 !     665.19 !     900.00 !       60 !        ! HOLE070P                         !                                 
+MTG5                 !     665.19 !     600.00 !      120 !        ! HOLE070P                         !                                 
+MTG4                 !     925.00 !     450.00 !      180 !        ! HOLE070P                         !                                 
+MTG3                 !    1184.81 !     600.00 !      240 !        ! HOLE070P                         !                                 
+MTG2                 !    1184.81 !     900.00 !      300 !        ! HOLE070P                         !                                 
+MTG1                 !     925.00 !    1050.00 !        0 !        ! HOLE070P                         !                                 
+J10                  !    1519.00 !    1322.00 !        0 !      m ! SSMA_BB                          !                                 
+J9                   !     330.00 !    1323.00 !      270 !      m ! SSMA_BB                          !                                 
+J8                   !    1519.00 !     177.00 !        0 !      m ! SSMA_BB                          !                                 
+J7                   !     330.00 !     177.00 !      270 !      m ! SSMA_BB                          !                                 
+J6                   !    1593.00 !    1045.00 !        0 !      m ! SSMA_BB                          !                                 
+J5                   !     257.17 !    1045.00 !      270 !      m ! SSMA_BB                          !                                 
+J4                   !    1593.00 !     455.00 !        0 !      m ! SSMA_BB                          !                                 
+J3                   !     257.00 !     455.00 !      270 !      m ! SSMA_BB                          !                                 
+J2                   !    1591.00 !     750.00 !        0 !      m ! SSMA_BB                          !                                 
+J1                   !     259.00 !     750.00 !      270 !      m ! SSMA_BB                          !                                 
+
+ Successfully placed 16 components

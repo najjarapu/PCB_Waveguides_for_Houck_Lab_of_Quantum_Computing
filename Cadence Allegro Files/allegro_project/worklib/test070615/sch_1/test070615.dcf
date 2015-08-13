@@ -1,0 +1,43 @@
+( ConstraintFile "test070615"
+	( constraintHeader
+		( objectKey
+			( logical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 2 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "test070615"
+			)
+			( signal "@\070615_lib\.test070615(sch_1):unnamed_1_outport_i1_a"
+				( alias ( signalRef "@\070615_lib\.test070615(sch_1):page1_unnamed_1_outport_i1_a") )
+				( objectStatus "unnamed_1_outport_i1_a" )
+			)
+			( signal "@\070615_lib\.test070615(sch_1):page1_unnamed_1_outport_i1_a"
+				( objectFlag fObjectAlias )
+				( objectStatus "page1_unnamed_1_outport_i1_a" )
+			)
+		)
+	)
+)

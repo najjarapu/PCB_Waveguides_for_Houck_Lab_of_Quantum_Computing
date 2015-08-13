@@ -1,0 +1,94 @@
+\t (00:14:59) allegro 16.6 S006 (v16-6-112Z) Linux I32
+\t (00:14:59)     Journal start - Tue Jul  7 17:54:47 2015
+\t (00:14:59)         Host=compton.princeton.edu User=ajjarapu Pid=16279 CPUs=12
+\t (00:14:59) 
+\d (00:14:59) Database opened: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/libraries/ssma_bb.dra
+\i (00:15:01) generaledit 
+\i (00:15:04) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 802.01 -1.63
+\i (00:15:05) trapsize 408
+\i (00:15:05) grid toggle 
+\i (00:15:06) generaledit 
+\i (00:15:31) add pin 
+\i (00:15:38) setwindow form.mini
+\i (00:15:38) FORM mini pad_browse  
+\i (00:15:46) fillin "Via25"
+\t (00:15:46) Using 'VIA25.pad'.
+\i (00:15:53) setwindow pcb
+\i (00:15:53) pick grid 148.64 96.38
+\t (00:15:54) last pick:  100.00  100.00
+\t (00:15:54) Using 'VIA25.pad'.
+\i (00:15:56) pick grid -95.56 -106.98
+\t (00:15:57) last pick:  -100.00  -100.00
+\t (00:15:57) Using 'VIA25.pad'.
+\i (00:16:02) prepopup 214.79 94.74
+\i (00:16:04) done 
+\t (00:16:05) Exiting from Add Pin.
+\i (00:16:06) generaledit 
+\i (00:16:10) prepopup 99.64 109.44
+\i (00:16:27) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:16:27) generaledit 
+\i (00:16:29) prepopup 99.64 102.09
+\i (00:16:32) prepopup 84.12 111.08
+\i (00:16:33) pick grid 70.23 101.28
+\t (00:16:33) last pick:  100.00  100.00
+\i (00:16:35) pick grid 93.10 98.83
+\t (00:16:35) last pick:  100.00  100.00
+\i (00:16:37) pick grid 103.72 114.34
+\t (00:16:37) last pick:  100.00  100.00
+\i (00:16:39) pick grid 156.81 155.18
+\t (00:16:39) last pick:  200.00  200.00
+\i (00:16:40) pick grid 108.62 101.28
+\t (00:16:40) last pick:  100.00  100.00
+\i (00:16:41) prepopup 112.70 111.08
+\i (00:16:47) pick grid 325.86 121.69
+\t (00:16:47) last pick:  300.00  100.00
+\i (00:16:53) save_as 
+\i (00:17:04) fillin "ssma_bb_neel.dra"
+\e (00:17:04) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:17:07) generaledit 
+\i (00:17:16) setwindow text
+\i (00:17:16) close 
+\i (00:17:34) setwindow pcb
+\i (00:17:34) generaledit 
+\i (00:17:37) pick grid 41.65 115.16
+\t (00:17:37) last pick:  0.00  100.00
+\i (00:17:38) pick grid 41.65 115.16
+\t (00:17:38) last pick:  0.00  100.00
+\i (00:17:41) prepopup 42.47 112.71
+\i (00:17:48) pop dyn_option_select '@:@Text edit' 
+\i (00:17:48) text edit 
+\i (00:18:03) setwindow form.textedit
+\i (00:18:03) FORM textedit str 0 
+\i (00:18:06) setwindow pcb
+\i (00:18:06) pick 0.00 0.00
+\t (00:18:06) Pick text to edit.
+\i (00:18:23) setwindow pcb
+\i (00:18:23) generaledit 
+\i (00:18:32) pick grid 75.95 163.35
+\t (00:18:32) last pick:  100.00  200.00
+\i (00:18:56) generaledit 
+\i (00:18:56) pick grid 317.70 97.19
+\t (00:18:56) last pick:  300.00  100.00
+\i (00:19:05) prepopup 40.83 118.43
+\i (00:19:08) pop dyn_option_select @:@Delete 
+\i (00:19:09) delete 
+\i (00:19:11) generaledit 
+\i (00:19:13) pick grid -157.63 -80.85
+\t (00:19:13) last pick:  -200.00  -100.00
+\i (00:19:17) prepopup -155.99 -84.93
+\i (00:19:20) pop dyn_option_select @:@Delete 
+\i (00:19:20) delete 
+\i (00:19:22) generaledit 
+\i (00:19:25) save 
+\i (00:19:29) fillin yes 
+\t (00:19:30) Symbol 'ssma_bb_neel.psm' created.
+\i (00:19:31) generaledit 
+\i (00:19:45) opencd /n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/qubit_qed_III.brd 
+\t (00:19:45) Opening existing design...
+\i (00:19:46) trapsize 10553
+\i (00:19:48) trapsize 10350
+\i (00:19:49) trapsize 10553
+\i (00:19:51) trapsize 13716
+\t (00:19:51)     Journal end - Tue Jul  7 17:59:39 2015

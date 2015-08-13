@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : newBoard.brd                                  )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Mon Jul 20 17:37:51 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-10844.89,-9025.84) (23155.11,12974.16)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+ERROR(SPMHAW-146): No grid lines found on top side ... aborting.
+

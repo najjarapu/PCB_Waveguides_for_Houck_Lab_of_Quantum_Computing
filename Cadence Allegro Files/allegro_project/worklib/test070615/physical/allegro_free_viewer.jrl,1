@@ -1,0 +1,146 @@
+\t (00:00:48) allegro_free_viewer 16.6 S038 (v16-6-112CV) Windows 32
+\t (00:00:48)     Journal start - Wed Aug 05 13:41:21 2015
+\t (00:00:48)         Host=NEEL-PC User=Neel Pid=20328 CPUs=4
+\t (00:00:48) CmdLine= C:\Users\Neel\AppData\Local\Programs\Cadence Design Systems\Allegro Free Physical Viewers 16.6\tools\pcb\bin\allegro_free_viewer.exe
+\t (00:00:48) 
+\d (00:00:48) Design opened: //files.princeton.edu/ajjarapu/allegro_project/worklib/test070615/physical/newBoardCircle_squarechug_viadone_139in.brd
+\i (00:00:49) roam x -96 
+\i (00:00:49) roam x -96
+\i (00:00:50) roam x -96 
+\i (00:00:50) roam x -96
+\i (00:00:50) roam x -96 
+\i (00:00:50) roam x -96
+\i (00:00:50) roam x -96 
+\i (00:00:50) roam x -96
+\i (00:00:52) roam x 96 
+\i (00:00:52) roam x 96
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 2320.01 -2892.07
+\i (00:00:55) trapsize 2090
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 2324.19 -2933.86
+\i (00:00:55) trapsize 1045
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 2322.10 -2958.94
+\i (00:00:56) trapsize 522
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 2318.97 -3007.00
+\i (00:00:56) trapsize 1045
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 2310.61 -3023.72
+\i (00:00:56) trapsize 2090
+\i (00:00:58) roam x -96 
+\i (00:00:58) roam x -96
+\i (00:00:58) roam y 96 
+\i (00:00:58) roam y 96
+\i (00:00:58) roam y 96 
+\i (00:00:58) roam y 96
+\i (00:00:59) roam y -96 
+\i (00:00:59) roam y -96
+\i (00:00:59) roam y 96 
+\i (00:00:59) roam y 96
+\i (00:01:28) roam y 96 
+\i (00:01:28) roam y 96
+\i (00:01:28) roam y 96 
+\i (00:01:28) roam y 96
+\i (00:01:28) roam y 96 
+\i (00:01:28) roam y 96
+\i (00:03:30) roam y 96 
+\i (00:03:30) roam y 96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam x -96 
+\i (00:03:31) roam x -96
+\i (00:03:31) roam y 96 
+\i (00:03:31) roam y 96
+\i (00:03:32) roam y 96 
+\i (00:03:32) roam y 96
+\i (00:03:32) roam y 96 
+\i (00:03:32) roam y 96
+\i (00:03:32) roam y 96 
+\i (00:03:32) roam y 96
+\i (00:03:32) roam y 96 
+\i (00:03:32) roam y 96
+\i (00:03:32) roam y 96 
+\i (00:03:32) roam y 16
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:32) roam x 96 
+\i (00:03:32) roam x 96
+\i (00:03:33) roam x 96 
+\i (00:03:33) roam x 96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:33) roam y -96 
+\i (00:03:33) roam y -96
+\i (00:03:34) roam x 96 
+\i (00:03:34) roam x 96
+\i (00:03:34) roam x 96 
+\i (00:03:34) roam x 96
+\i (00:03:34) roam x 96 
+\i (00:03:34) roam x 96
+\i (00:03:34) roam x 96 
+\i (00:03:34) roam x 96
+\i (00:03:35) roam y 96 
+\i (00:03:35) roam y 96
+\i (00:03:35) roam y 96 
+\i (00:03:35) roam y 96
+\i (00:03:35) roam y 96 
+\i (00:03:35) roam y 96
+\i (00:03:35) roam y 96 
+\i (00:0

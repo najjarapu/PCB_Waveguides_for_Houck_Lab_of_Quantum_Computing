@@ -1,0 +1,86 @@
+\t (00:00:00) pad_designer 16.6 S006 (v16-6-112X) Linux I32
+\t (00:00:00)     Journal start - Wed Jul 15 18:20:13 2015
+\t (00:00:00)         Host=davisson.princeton.edu User=ajjarapu Pid=28031 CPUs=12
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit layers  
+\i (00:00:05) FORM padedit parameters  
+\i (00:00:08) FORM padedit hole_type Rectangle Slot 
+\i (00:00:17) FORM padedit plating Non-Plated 
+\i (00:00:23) FORM padedit hole_size_x 130 
+\i (00:00:28) FORM padedit hole_size_y 130 
+\i (00:00:31) FORM padedit hole_pos_tolerance 5 
+\i (00:00:34) FORM padedit hole_neg_tolerance 5 
+\i (00:00:43) FORM padedit characters BIG 
+\i (00:00:48) FORM padedit units Millimeter 
+\i (00:00:50) fillin yes 
+\w (00:00:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:57) FORM padedit hole_size_x 6.5 
+\i (00:01:00) FORM padedit hole_size_y 6.5 
+\i (00:01:16) FORM padedit antipad_keepouts YES 
+\i (00:01:16) FORM padedit supress_internal NO 
+\i (00:01:17) FORM padedit supress_internal YES 
+\i (00:01:18) FORM padedit antipad_keepouts NO 
+\i (00:01:18) FORM padedit supress_internal NO 
+\i (00:01:20) FORM padedit supress_internal YES 
+\i (00:01:25) FORM padedit layers  
+\i (00:01:27) FORM padedit grid row begin_layer 
+\i (00:01:33) FORM padedit geometry Rectangle 
+\i (00:01:35) FORM padedit parameters  
+\i (00:01:51) FORM padedit layers  
+\i (00:02:27) FORM padedit width 138 
+\i (00:02:29) FORM padedit height 138 
+\i (00:02:34) FORM padedit shapebutton  
+\i (00:02:39) fillin "menu_cancel"
+\i (00:02:43) FORM padedit grid row default_internal 
+\i (00:02:49) FORM padedit grid row begin_layer 
+\i (00:02:56) FORM padedit width 7 
+\i (00:02:57) FORM padedit height 7 
+\i (00:03:01) FORM padedit parameters  
+\i (00:03:02) FORM padedit layers  
+\i (00:03:03) FORM padedit grid row default_internal 
+\i (00:03:10) FORM padedit width 6.5 
+\i (00:03:14) FORM padedit geometry Rectangle 
+\i (00:03:18) FORM padedit grid row begin_layer 
+\i (00:03:20) FORM padedit geometry Square 
+\i (00:03:21) FORM padedit grid row default_internal 
+\i (00:03:23) FORM padedit geometry Square 
+\i (00:03:25) FORM padedit width 6.5 
+\i (00:03:30) FORM padedit grid row end_layer 
+\i (00:03:35) FORM padedit grid row default_internal 
+\i (00:03:37) FORM padedit grid rpopup default_internal Insert 
+\i (00:03:38) FORM padedit grid row unnamed1 
+\i (00:03:45) FORM padedit grid change unnamed1,1 02_GND 
+\i (00:03:46) FORM padedit grid rpopup 02_gnd Insert 
+\i (00:03:47) FORM padedit grid row unnamed1 
+\i (00:03:53) FORM padedit grid change unnamed1,1 02_GND 
+\w (00:03:53) WARNING(SPMHDB-160): Subclass name already exists in cross-section.
+\i (00:03:53) FORM padedit grid row 02_gnd 
+\i (00:03:59) FORM padedit grid change 02_gnd,1 03_SIG 
+\i (00:03:59) FORM padedit grid row unnamed1 
+\i (00:04:03) FORM padedit grid change unnamed1,1 02_GND 
+\i (00:04:06) FORM padedit width 7 
+\i (00:04:09) FORM padedit grid row end_layer 
+\i (00:04:17) FORM padedit grid change end_layer,1 BOTTOM 
+\i (00:04:17) FORM padedit grid row begin_layer 
+\i (00:04:21) FORM padedit grid change begin_layer,1 TOP 
+\i (00:04:21) FORM padedit grid row 02_gnd 
+\i (00:04:28) FORM padedit grid row bottom 
+\i (00:04:31) FORM padedit geometry Square 
+\i (00:04:35) FORM padedit width 6.5 
+\i (00:04:46) FORM padedit crossbox YES 
+\i (00:04:54) FORM padedit parameters  
+\i (00:05:31) FORM padedit grid  
+\i (00:05:40) pse_save 
+\i (00:07:12) setwindow text
+\i (00:07:12) close 
+\i (00:07:16) fillin yes 
+\i (00:07:23) setwindow form.padedit
+\i (00:07:23) pse_save_as 
+\i (00:07:28) setwindow text
+\i (00:07:28) close 
+\i (00:07:30) fillin yes 
+\i (00:07:45) fillin "7_7_Slot.pad"
+\i (00:07:48) setwindow form.padedit
+\i (00:07:48) pse_exit
+\t (00:07:48)     Journal end - Wed Jul 15 18:28:02 2015

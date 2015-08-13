@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : newBoard.brd                                  )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Mon Jul 20 17:38:03 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-10844.89,-9025.84) (23155.11,12974.16)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+OLD MTG1    NEW T1
+OLD MTG6    NEW T2
+OLD MTG2    NEW T3
+OLD MTG5    NEW T4
+OLD MTG3    NEW T5
+OLD MTG4    NEW T6
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the LEFT, from the top down.
+
+OLD J9    NEW UB1
+OLD J10    NEW UB2
+OLD J6    NEW UB3
+OLD J5    NEW UB4
+OLD J2    NEW UB5
+OLD J1    NEW UB6
+OLD J4    NEW UB7
+OLD J3    NEW UB8
+OLD J8    NEW UB9
+OLD J7    NEW UB10

@@ -1,0 +1,11 @@
+(DEVICE FILE: filter)
+
+PACKAGE filter
+CLASS DISCRETE
+PINCOUNT 1
+
+PINORDER filter  1
+
+FUNCTION filter filter  1
+
+END

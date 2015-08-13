@@ -1,0 +1,32 @@
+
+---------------------------------------------------------------------------
+BOARD: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Mon Jul 13 16:56:47 2015        HOST: davisson.princeton.edu
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        34 -4942125    4 14535762%    0   71     5.0  0:13:42  0:13:42
+
+---------------------------------------------------------------------------
+BOARD: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Mon Jul 13 16:56:47 2015        HOST: davisson.princeton.edu
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        34    4    4  88%    0   71     5.0  0:13:42  0:13:42
+
+---------------------------------------------------------------------------
+BOARD: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Mon Jul 13 17:04:05 2015        HOST: davisson.princeton.edu
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        34    4    4  88%    0   71     5.0  0:14:00  0:14:00
+
+---------------------------------------------------------------------------
+BOARD: /n/homeserver2/user2a/ajjarapu/allegro_project/worklib/test070615/physical/testBoard.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Mon Jul 13 17:04:05 2015        HOST: davisson.princeton.edu
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        34    4    4  88%    0   71     5.0  0:14:00  0:14:00

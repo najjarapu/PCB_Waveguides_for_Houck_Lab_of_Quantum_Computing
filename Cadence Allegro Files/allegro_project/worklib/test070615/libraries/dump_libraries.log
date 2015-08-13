@@ -1,0 +1,69 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S006                                      )
+(    Date/Time        : Tue Jul  7 16:03:22 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: /n/homeserver2/user2a/ajjarapu/quibit_qed_III_info/qubit_qed_III.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  136C116P being dumped.
+
+  BBVIA15 being dumped.
+
+  BBVIA-15 being dumped.
+
+  VIA10 being dumped.
+
+  VIA25 being dumped.
+
+  VIA18 being dumped.
+
+  90C64P being dumped.
+
+  100C70P being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  direct being dumped.
+
+  th_64 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  hole070p being dumped.
+
+  ssma_bb being dumped.
+
+
+  *** Creating format symbols (.dra and .bsm) ***
+
+  a2 being dumped.
+
+  smalllogo being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                8
+Number of package symbols dumped:          2
+Number of format symbols dumped:           2
+Number of flash symbols dumped:            2
+
+Total number of symbols dumped:            6
+*****************************************************
+

@@ -1,0 +1,19 @@
+
+CSDirect 16.6-S006 (v16-6-112X)
+Netlisting block test070615
+Processing page 1
+
+ERROR(SPCOCD-113): Port is attached to an unnamed 
+signal.
+Object description:
+ Page: 1  Instance: i3  Cell name: outport  Pin: A 
+
+ERROR(SPCOCD-113): Port is attached to an unnamed 
+signal.
+Object description:
+ Page: 1  Instance: i2  Cell name: outport  Pin: A 
+
+ERROR(SPCOCD-113): Port is attached to an unnamed 
+signal.
+Object description:
+ Page: 1  Instance: i1  Cell name: outport  Pin: A 

@@ -1,0 +1,22 @@
+(
+  (version 16.6)
+  (tool
+    (creator "Concept")
+    (last "Concept")
+  )
+  (library "070615_lib")
+  (design "test070615"
+    (lastIds
+      (lastNetId 2)
+    )
+    (nets
+      ("N1" "unnamed_1_outport_i1_a" -1 -1 0 )
+      ("N2" "page1_unnamed_1_outport_i1_a" -1 -1 0 )
+    )
+
+    (alias
+      ("N2" -1 -1 "N1" -1 -1)
+    )
+
+  )
+)

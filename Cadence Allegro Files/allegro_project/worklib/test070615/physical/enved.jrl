@@ -1,0 +1,14 @@
+\t (00:00:00) enved 16.6 S006 (v16-6-112X) Linux I32
+\t (00:00:00)     Journal start - Wed Jul  8 14:53:44 2015
+\t (00:00:00)         Host=compton.princeton.edu User=ajjarapu Pid=13048 CPUs=12
+\t (00:00:00) 
+\i (00:00:05) setwindow form.prfedit
+\i (00:00:05) FORM prfedit searchf logic 
+\i (00:00:05) FORM prfedit inc_summary YES 
+\i (00:00:07) FORM prfedit logic_edit_enabled NO 
+\i (00:00:09) FORM prfedit apply  
+\i (00:00:26) FORM prfedit logic_edit_enabled YES 
+\i (00:00:28) FORM prfedit apply  
+\i (00:00:33) FORM prfedit apply  
+\i (00:00:35) FORM prfedit done  
+\t (00:00:35)     Journal end - Wed Jul  8 14:54:19 2015
